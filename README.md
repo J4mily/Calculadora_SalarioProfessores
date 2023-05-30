@@ -23,4 +23,4 @@ Por fim, o programa deverá imprimir o resultado, exibindo o nome do professor e
 valor a receber. O código pode ser desenvolvido em qualquer linguagem de programação, utilizando
 classes ou estruturas para resolver o problema.
 
-### => Como visto, a atividade proposta foi realizada utilizando classes e com a linguagem prioritariamente em JAVA. 
+##### => Como mencionado anteriormente, a atividade proposta foi abordada utilizando uma abordagem orientada a objetos, com a implementação de classes em Java.
