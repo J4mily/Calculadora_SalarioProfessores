@@ -1,5 +1,5 @@
-### Calculadora de Salário de Professores
-# Atividade proposta: 
+# Calculadora de Salário de Professores
+### Atividade proposta: 
 Desenvolva um programa que funcione como uma calculadora de valor a receber para
 um professor. O programa deve solicitar ao usuário o nome do professor e seu regime
 de pagamento, que pode ser: CLT, Horista ou PJ. Em seguida, o programa deve pedir
@@ -23,4 +23,4 @@ Por fim, o programa deverá imprimir o resultado, exibindo o nome do professor e
 valor a receber. O código pode ser desenvolvido em qualquer linguagem de programação, utilizando
 classes ou estruturas para resolver o problema.
 
-# Como visto, a atividade proposta foi realizada utilizando classes e com a linguagem prioritariamente em JAVA. 
+### Como visto, a atividade proposta foi realizada utilizando classes e com a linguagem prioritariamente em JAVA. 
