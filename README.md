@@ -1,4 +1,4 @@
-# Calculadora de Salário de Professores
+# Calculadora de Salário dos Professores
 ### Atividade proposta: 
 Desenvolva um programa que funcione como uma calculadora de valor a receber para
 um professor. O programa deve solicitar ao usuário o nome do professor e seu regime
@@ -18,7 +18,7 @@ regime de pagamento. O cálculo será feito da seguinte maneira:
 - Para regime Horista, o valor a receber será o produto entre o número de horas
 trabalhadas e o valor da hora de trabalho.
 - Para regime PJ, o valor a receber será igual ao valor do contrato.
-- 
+
 Por fim, o programa deverá imprimir o resultado, exibindo o nome do professor e o
 valor a receber. O código pode ser desenvolvido em qualquer linguagem de programação, utilizando
 classes ou estruturas para resolver o problema.
